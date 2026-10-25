@@ -33,7 +33,7 @@ These were set before any results were seen, so the goalposts cannot move.
 Requires [uv](https://docs.astral.sh/uv/).
 
 ```bash
-git clone https://github.com/<your-username>/dk1-price-forecast.git
+git clone https://github.com/henriquemsclaudino/dk1-price-forecast.git
 cd dk1-price-forecast
 uv sync
 ```
